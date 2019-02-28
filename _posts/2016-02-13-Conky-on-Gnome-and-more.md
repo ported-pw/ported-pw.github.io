@@ -5,7 +5,7 @@ published: true
 
 Conky is a really great tool when it comes to monitoring your system and spicing up your boring desktop in the process. 
 ### The Transparency
-When I found out about it in [this great video](https://www.youtube.com/watch?v=XTkYUUfewck), I immediately wanted to try it out, so I installed Conky Manager, enabled a \"widget\", and was greated by this:
+When I found out about it in [this great video](https://www.youtube.com/watch?v=XTkYUUfewck), I immediately wanted to try it out, so I installed Conky Manager, enabled a \"widget\", and was greeted by this:
 ![]({{site.baseurl}}/images/2016-02-13/before.png)
 Great. No transparency and things are overlaying everywhere. After some research, I found [this section](https://wiki.archlinux.org/index.php/Conky#Integrate_with_GNOME) in the Arch Wiki. I ended up replacing this `own_window` section
 
@@ -131,5 +131,3 @@ https://wiki.archlinux.org/index.php/Conky
 https://github.com/brndnmtthws/conky/wiki/Configure
 
 I hope you liked this article and, if you have any suggestions on what to add here or corrections, write a comment :)
-
-*Note: This article was transferred over from my old website in June, 2018*
