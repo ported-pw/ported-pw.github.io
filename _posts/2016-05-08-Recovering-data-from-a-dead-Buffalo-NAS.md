@@ -61,7 +61,3 @@ But what happened to the NAS itself? The truth is, I don't know. Maybe it didn't
 
 I decided that that NAS was way too unreliable anyway, so I didn't bother to find out exactly what happened.  
 How I want to avoid it? By building my own NAS.
-
-If you did, thanks for reading all the way trough.
-
-*Note: This article was transferred over from my old website in June, 2018*
