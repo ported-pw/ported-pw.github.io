@@ -123,5 +123,3 @@ Of course replace all instances of `example.com`with your actual domain and corr
 
 Now you are all done and can test your configuration with `automx-test someuser@example.com`. If everything works out fine, well done! If you still have any questions (including setting up AutoMX on FreeBSD), don't hesitate to leave me a comment!  
 Happy configuring!
-
-*Note: This article was transferred over from my old website in June, 2018*
