@@ -1,10 +1,7 @@
 ---
 published: true
 ---
-#### I take a look at what happened with my Buffalo NAS, how to recover data from it, and how I want to avoid it happening again
-*Have you ever thought about building your own NAS? Has your old one mysteriously died? Then this guide is for you.*  
-
-**Disclaimer:** You should have at least built your own PC and be aware of some basic networking, security, and *NIX stuff.
+#### I take a look at what happened with my Buffalo NAS, and how to recover data from its dead corpse.
 
 A few years ago, when everything was getting more and more connected, I decided to buy a NAS. It shouldn't be expensive, so I got a Buffalo LS-WXL. It had two 2TB drives, and some seriously shitty hardware specs, but it was enough at that time. Not beeing completely stupid, I set it up to back up the first drive to the second one every week (which I thanked myself for later).
 
@@ -58,6 +55,3 @@ That doesn't look good at all. If we take a look at the previously mentioned val
 There are tutorials on how to fix single uncorrectable sectors by zeroing them out with `dd`, but 96 are *way* too many. Seeing the 64800 reallocated sectors, the hard drive probably ran out of spare sectors. I decided to crap that drive.
 
 But what happened to the NAS itself? The truth is, I don't know. Maybe it didn't want to boot with all the drive errors, but considering that it doesn't run SMART tests, I would rather bet on it crapping it's pants at the same time as the hard drive.
-
-I decided that that NAS was way too unreliable anyway, so I didn't bother to find out exactly what happened.  
-How I want to avoid it? By building my own NAS.
