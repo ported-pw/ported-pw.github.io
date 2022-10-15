@@ -1,5 +1,5 @@
 ---
-published: true
+title: Automatic email settings with AutoMX for Postfixadmin and ViMbAdmin
 ---
 #### A quick tutorial on how to configure the AutoMX WSGI script with a MySQL database like the ones PostfixAdmin and ViMbAdmin use.
 

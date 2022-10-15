@@ -2,12 +2,12 @@
 layout: page
 title: About
 permalink: /about/
-published: true
 ---
 
 Hi,
 
-I am an almost-professional web developer (first front-, then backend) and sysadmin.
+I am software developer (mostly backend focused) with additional experience in networking, DevOps and many other fields
+I happen to come across.
 
 ### Contact me
 

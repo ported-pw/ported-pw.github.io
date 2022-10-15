@@ -1,5 +1,5 @@
 ---
-published: true
+title: Recovering data from a dead Buffalo NAS
 ---
 #### I take a look at what happened with my Buffalo NAS, and how to recover data from its dead corpse.
 

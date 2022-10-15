@@ -1,5 +1,5 @@
 ---
-published: true
+title: Conky on Gnome and more
 ---
 #### How to fix transparency issues in GNOME, add temperature monitors and an unread email counter.
 
