@@ -25,7 +25,7 @@ This works, however, I am a firm believer in "doing things the right way", and b
    `/etc/openvpn/[your client name].conf`
 3. Symlink an alias to the `init.d` service:  
    `ln -s /etc/init.d/openvpn /etc/init.d/openvpn.[your client name]`.  
-   The service will find the file based on it's invoked service name.
+   The service will find the file based on its invoked service name.
 3. `rc-service openvpn.[your client name] start`
 
 And now you can make it persistent:
