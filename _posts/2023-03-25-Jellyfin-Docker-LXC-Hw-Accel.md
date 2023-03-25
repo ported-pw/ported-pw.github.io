@@ -107,4 +107,4 @@ The last step would now be to enable Hardware decoding in Jellyfin and check all
 [^1]: [NVENC/NVDEC support matrix](https://developer.nvidia.com/video-encode-and-decode-gpu-support-matrix-new), [Nvidia NVDEC (Wiki)](https://en.wikipedia.org/wiki/Nvidia_NVDEC), [Nvidia NVENC (Wiki)](https://en.wikipedia.org/wiki/Nvidia_NVENC)  
 [^2]: [feedesktop wiki](https://nouveau.freedesktop.org/VideoAcceleration.html)  
 [^3]: [Proxmox wiki](https://pve.proxmox.com/wiki/Developer_Workstations_with_Proxmox_VE_and_X11#Optional:_NVidia_Drivers)  
-[^4] [This blog posted](https://bradford.la/2016/GPU-FFMPEG-in-LXC/) helped me get across the finish line.  
+[^4]: [This blog post](https://bradford.la/2016/GPU-FFMPEG-in-LXC/) helped me get across the finish line.  
