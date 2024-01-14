@@ -44,7 +44,6 @@ post_search: true
 edit_page_button: true
 
 disqus: ported-pw
-google_analytics: UA-120913738-1
 
 # Output options (more information on Jekyll's site)
 timezone: "Europe/Berlin"
